@@ -6,11 +6,10 @@
 
 - 💼 Senior Technology Lead
 - [🏠 Singapore](https://www.google.com/maps/place/Singapore/)
-- [🌎 Personal Website](https://lee.rongq.in)
-- [🌎 Blog](https://ratinan.com/blog)
+- [🌎 Personal Website](https://connect.ratinan.com)
 - [🐱 GitHub.io](https://lee-ratinan.github.io/)
 - [👨‍💼 LinkedIn](https://www.linkedin.com/in/ratinanlee/)
-- [🐦 Twitter](https://twitter.com/RatinanLee)
+- [Credly](https://www.credly.com/users/ratinan-lee)
 
 ## Experience
 
