@@ -1,5 +1,3 @@
-![Banner](https://ratinan.com/2021/public/images/about_3.jpg "Banner")
-
 > Technology is nothing. What’s important is that you have a faith in people, that they’re basically good and smart, and if you give them tools, they’ll do wonderful things with them. - Steve Jobs, ex CEO of Apple Inc
 
 # Ratinan "Nat" Lee
